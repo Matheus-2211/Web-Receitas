@@ -4,6 +4,12 @@ body {
     margin: 0px 0px;
 }
 
+#rodape {
+    background-color: blue;
+    padding: 10px 0px;
+    color: #fff;
+}
+
 #title_receita {
     background-color: blue;
     padding: 10px 0px;
